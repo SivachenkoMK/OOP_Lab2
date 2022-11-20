@@ -1,0 +1,202 @@
+﻿<?xml version='1.0' ?> 
+  <read_students>
+    <student>
+      <name>Dmytro Zashshsh</name>
+      <faculty>FCSC</faculty>
+      <discipline>Mathematical analysis</discipline>
+      <mark>69</mark>
+      <code>2010A</code>
+    </student>
+    
+    <student>
+      <name>Andriy Bobrysovich</name>
+      <faculty>FCSC</faculty>
+      <discipline>AOSKM</discipline>
+      <mark>11</mark>
+      <code>1962A</code>
+    </student>
+    
+    <student>
+      <name>Denis Buisnessucker</name>
+      <faculty>FS</faculty>
+      <discipline>VDUS</discipline>
+      <mark>59</mark>
+      <code>2021A</code>
+    </student>
+    
+    <student>
+      <name>Andrew Pidorych</name>
+      <faculty>FS</faculty>
+      <discipline>Mathematical analysis</discipline>
+      <mark>0</mark>
+      <code>2021A</code>
+    </student>
+
+    <student>
+      <name>Artem Milfhunterko</name>
+      <faculty>FCSC</faculty>
+      <discipline>FE</discipline>
+      <mark>99</mark>
+      <code>2021A</code>
+    </student>
+
+    <student>
+      <name>Maksym Milfhunterko</name>
+      <faculty>FCSC</faculty>
+      <discipline>Philosophical FBM</discipline>
+      <mark>98</mark>
+      <code>2021B</code>
+    </student>
+    
+    <student>
+      <name>Mikhail Milfhunterko</name>
+      <faculty>FCSC</faculty>
+      <discipline>Science</discipline>
+      <mark>97</mark>
+      <code>2021A</code>
+    </student>
+    
+    <student>
+      <name>Bohdan Tenyearko</name>
+      <faculty>FCSC</faculty>
+      <discipline>AOSKM</discipline>
+      <mark>95</mark>
+      <code>2021A</code>
+    </student>
+
+    <student>
+      <name>Julia Milfchuk</name>
+      <faculty>FS</faculty>
+      <discipline>AOSKM</discipline>
+      <mark>75</mark>
+      <code>2010A</code>
+    </student>
+    
+    <student>
+      <name>Mykhaylo Noodle</name>
+      <faculty>FS</faculty>
+      <discipline>Mathematical analysis</discipline>
+      <mark>61</mark>
+      <code>2021B</code>
+    </student>
+    
+    <student>
+      <name>James Bond</name>
+      <faculty>FIC</faculty>
+      <discipline>Molecular Physics</discipline>
+      <mark>77</mark>
+      <code>2021B</code>
+    </student>
+    
+    <student>
+      <name>Andy Cocoko</name>
+      <faculty>FIC</faculty>
+      <discipline>Molecular Physics</discipline>
+      <mark>82</mark>
+      <code>2021B</code>
+    </student>
+    
+    <student>
+      <name>Anton Matryshkin</name>
+      <faculty>FIC</faculty>
+      <discipline>Molecular Physics</discipline>
+      <mark>79</mark>
+      <code>2021B</code>
+    </student>
+    
+    <student>
+      <name>Anita Bach</name>
+      <faculty>FIC</faculty>
+      <discipline>Molecular Physics</discipline>
+      <mark>87</mark>
+      <code>2021B</code>
+    </student>
+    
+    <student>
+      <name>Anita Bach</name>
+      <faculty>FIC</faculty>
+      <discipline>Chemistry</discipline>
+      <mark>91</mark>
+      <code>2021B</code>
+    </student>
+    
+    <student>
+      <name>Anita Bach</name>
+      <faculty>FIC</faculty>
+      <discipline>Biology of mammals</discipline>
+      <mark>87</mark>
+      <code>2021B</code>
+    </student>
+    
+    <student>
+      <name>Ilya Pythonov</name>
+      <faculty>FIC</faculty>
+      <discipline>Molecular Physics</discipline>
+      <mark>71</mark>
+      <code>2021B</code>
+    </student>
+    
+    <student>
+      <name>Ilya Romanov</name>
+      <faculty>FIC</faculty>
+      <discipline>Molecular Physics</discipline>
+      <mark>68</mark>
+      <code>2021B</code>
+    </student>
+    
+    <student>
+      <name>Daniil Korovin</name>
+      <faculty>FAP</faculty>
+      <discipline>Chemistry</discipline>
+      <mark>43</mark>
+      <code>2021A</code>
+    </student>
+    
+    <student>
+      <name>Baraban Andreay</name>
+      <faculty>FAM</faculty>
+      <discipline>Chemistry</discipline>
+      <mark>58</mark>
+      <code>2014A</code>
+    </student>
+
+    <student>
+      <name>Marina Kurova</name>
+      <faculty>FBM</faculty>
+      <discipline>Choreography</discipline>
+      <mark>93</mark>
+      <code>2021A</code>
+    </student>
+
+    <student>
+      <name>Michael Jackson</name>
+      <faculty>FESD</faculty>
+      <discipline>Choreography</discipline>
+      <mark>100</mark>
+      <code>2021A</code>
+    </student>
+
+    <student>
+      <name>Lucifer Morningstar</name>
+      <faculty>FAST</faculty>
+      <discipline>OOP</discipline>
+      <mark>99</mark>
+      <code>2021A</code>
+    </student>
+
+    <student>
+      <name>Thomas Shelbyko</name>
+      <faculty>FAST</faculty>
+      <discipline>OOP</discipline>
+      <mark>90</mark>
+      <code>2021A</code>
+    </student>
+
+    <student>
+      <name>Mary Kovshenko</name>
+      <faculty>FASA</faculty>
+      <discipline>Space learning</discipline>
+      <mark>84</mark>
+      <code>2021B</code>
+    </student>
+  </read_students>

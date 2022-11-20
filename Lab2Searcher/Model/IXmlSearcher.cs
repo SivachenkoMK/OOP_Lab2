@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Lab2Searcher
+namespace Lab2Searcher.Model
 {
     public interface IXmlSearcher
     {

@@ -6,6 +6,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Xml.Linq;
 using System.Xml.Xsl;
+using Lab2Searcher.Model;
 
 namespace Lab2Searcher
 {

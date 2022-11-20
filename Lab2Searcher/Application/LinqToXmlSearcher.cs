@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Xml.Linq;
+using Lab2Searcher.Model;
 
 namespace Lab2Searcher
 {

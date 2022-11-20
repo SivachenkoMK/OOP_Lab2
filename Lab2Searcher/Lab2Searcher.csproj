@@ -47,19 +47,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Student.cs" />
-    <Compile Include="DomSearcher.cs" />
+    <Compile Include="Application\DomSearcher.cs" />
+    <Compile Include="Application\LinqToXmlSearcher.cs" />
+    <Compile Include="Application\SaxSearcher.cs" />
+    <Compile Include="Model\IXmlSearcher.cs" />
+    <Compile Include="Model\Student.cs" />
     <Compile Include="XMLSearcherForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="XMLSearcherForm.Designer.cs">
       <DependentUpon>XMLSearcherForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="IXmlSearcher.cs" />
-    <Compile Include="LinqToXmlSearcher.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SaxSearcher.cs" />
     <Compile Include="SearchCriteria.cs" />
     <EmbeddedResource Include="XMLSearcherForm.resx">
       <DependentUpon>XMLSearcherForm.cs</DependentUpon>

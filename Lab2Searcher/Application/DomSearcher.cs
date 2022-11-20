@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Xml;
+using Lab2Searcher.Model;
 
 namespace Lab2Searcher
 {
